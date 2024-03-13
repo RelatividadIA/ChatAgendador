@@ -1,0 +1,6 @@
+fastapi
+pydantic
+openai
+typing
+uvicorn
+mysql-connector-python
